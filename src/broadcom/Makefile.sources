@@ -1,0 +1,8 @@
+BROADCOM_GENERATED_FILES = \
+	cle/v3d_packet_v21_pack.h \
+	$(NULL)
+
+BROADCOM_FILES = \
+	cle/v3d_packet_helpers.h \
+	$(NULL)
+
